@@ -1,0 +1,9 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.drivewhip.whipev",
+    "sha256_cert_fingerprints":
+    ["4D:C0:6E:6B:6C:17:26:C4:BC:F4:AF:3F:CF:79:4E:FA:47:CB:E3:8F:A4:2C:0E:7D:11:A7:6F:54:BF:BE:B4:3D"]
+  }
+}]
